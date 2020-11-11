@@ -1,3 +1,3 @@
 # Tictactoe
 
-#####Sample Tic Tac Toe app written in python
+##### Sample Tic Tac Toe app written in python
